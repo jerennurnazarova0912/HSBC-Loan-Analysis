@@ -31,4 +31,4 @@ This project focuses on identifying the key drivers for personal loan approvals 
 Analyzed customer demographics and education levels to predict loan acceptance. 
 [View Interactive Dashboard](https://public.tableau.com/app/profile/jeren.nurnazarova/viz/HSBCLoanApprovalPatterns/Sheet1)
 
-![Project Preview](tableau_preview.png)
+![Project Preview](tableau_previe%20w.png)
