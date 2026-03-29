@@ -14,16 +14,18 @@ This project focuses on identifying the key drivers for personal loan approvals 
 * **Scatter Plot:** Correlation between Annual Income and Monthly Credit Card Spending.
 * **Slicers:** Interactive filtering by Education category.
 
-## Tools & Technologies
-* **Power BI Desktop:** Data visualization and dashboard design.
-* **PostgreSQL:** Initial data modeling and schema design.
-* **DAX:** Basic measures for counting approvals and calculating totals.
+## Dashboard Preview
+Below is the final interactive dashboard developed in Power BI, showcasing key insights from the HSBC loan dataset:
 
-## How to View
-1. Download the `HSBC_Loan_Analysis_Jeren.pbix` file from this repository.
-2. Open it using **Power BI Desktop**.
-3. (Optional) Check the `Preview.png` for a quick look at the dashboard.
+![HSBC Loan Analysis Dashboard](dashboard.png.png)
 
+---
+### Final Note
+This project demonstrates proficiency in banking data processing, SQL querying, and creating interactive financial reporting using Power BI.
+
+---
+### Final Note
+Проект демонстрирует навыки обработки банковских данных и создания интерактивной отчетности в Power BI.
 ---
 *Developed as part of a Finance & Data Analytics portfolio.*
 
