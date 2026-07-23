@@ -25,7 +25,7 @@ This project demonstrates proficiency in banking data processing, SQL querying, 
 
 ---
 ### Final Note
-Проект демонстрирует навыки обработки банковских данных и создания интерактивной отчетности в Power BI.
+The project highlights my expertise in processing banking data and building interactive reports using Power BI.
 ---
 *Developed as part of a Finance & Data Analytics portfolio.*
 
