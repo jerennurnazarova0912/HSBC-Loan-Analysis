@@ -1,5 +1,7 @@
 # HSBC Personal Loan Acceptance Analysis 🏦📈
 
+## Note: This project uses a public/practice dataset styled on personal loan data. It is not affiliated with, sponsored by, or completed on behalf of HSBC.
+
 ## Project Overview
 This project focuses on identifying the key drivers for personal loan approvals using a dataset of 5,000 bank customers. The goal was to build an interactive dashboard in **Power BI** to help credit officers make data-driven decisions based on customer demographics and financial behavior.
 
@@ -21,13 +23,9 @@ Below is the final interactive dashboard developed in Power BI, showcasing key i
 
 ---
 ### Final Note
-This project demonstrates proficiency in banking data processing, SQL querying, and creating interactive financial reporting using Power BI.
+This project demonstrates proficiency in banking data processing, SQL querying, and creating interactive financial reporting using Power BI. Developed as part of a Finance & Data Analytics portfolio.
 
 ---
-### Final Note
-The project highlights my expertise in processing banking data and building interactive reports using Power BI.
----
-*Developed as part of a Finance & Data Analytics portfolio.*
 
 ## Tableau Data Visualization
 Analyzed customer demographics and education levels to predict loan acceptance. 
