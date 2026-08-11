@@ -36,7 +36,7 @@ Full SQL in `risk_tier_analysis.sql`.
 - Slicers: Interactive filtering by Education category.
 
 ## Dashboard Preview
-![Power BI Dashboard Preview](dashboard.png)
+<img src="./dashboard.png" width="100%" alt="Power BI Dashboard">
 
 ## Related Work
 Additional SQL queries for banking, risk, and e-commerce analysis are in my 
@@ -45,9 +45,9 @@ Additional SQL queries for banking, risk, and e-commerce analysis are in my
 ## Tableau Data Visualization
 Analyzed customer demographics and education levels to predict loan acceptance. 
 
-[![Tableau Interactive Preview](tableau_preview.png)](https://public.tableau.com/app/profile/jeren.nurnazarova/viz/HSBCLoanApprovalPatterns/Sheet1?publish=yes)
-
 [View Interactive Dashboard](https://public.tableau.com/app/profile/jeren.nurnazarova/viz/HSBCLoanApprovalPatterns/Sheet1?publish=yes)
+
+<img src="./tableau_preview.png" width="100%" alt="Tableau Preview">
 
 ---
 Developed as part of a self-directed Finance & Data Analytics portfolio.
